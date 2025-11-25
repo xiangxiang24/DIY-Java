@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SpaceExpeditionDriver {
+public class no3 {
     public static void main(String[] args) {
         // Create instances of different spacecraft
         CargoShip cargoShip = new CargoShip();
